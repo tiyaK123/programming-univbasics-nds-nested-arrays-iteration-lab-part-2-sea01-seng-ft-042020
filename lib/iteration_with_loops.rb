@@ -16,4 +16,5 @@ while src.length > count do
   new_arr << n 
   count += 1 
 end 
+new_arr
 end
